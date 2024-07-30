@@ -19,7 +19,7 @@ fun BottomNavigationBar(
 ) {
 
     val items = listOf(
-        BottomNavItem.MoviePupular,
+        BottomNavItem.MoviePopular,
         BottomNavItem.SearchMovie,
         BottomNavItem.MovieFavories
     )
